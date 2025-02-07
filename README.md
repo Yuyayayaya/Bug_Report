@@ -12,3 +12,10 @@
 1.  
 2.  
 ・・・  
+  
+  
+～報告のやり方～  
+1-lssuesタブに移動  
+2-New issueを押す  
+3-Add a titleに概要、Add a descriptionに詳細などを記載  
+4-すべて記載終わったらCreate押して完了※Create押したらなるべく編集しないでほしいです。  
